@@ -1,17 +1,17 @@
 {
-  "name": "socket-chat",
+  "name": "multiplayer-game",
   "version": "0.0.1",
-  "description": "my first socket.io app",
+  "description": "Multiplayer game using sockets",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lselbeck/SocketChat.git"
+    "url": "git+https://github.com/lselbeck/multiplayer-game.git"
   },
   "author": "Luke Selbeck",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lselbeck/SocketChat/issues"
+    "url": "https://github.com/lselbeck/multiplayer-game/issues"
   },
-  "homepage": "https://github.com/lselbeck/SocketChat#readme",
+  "homepage": "https://github.com/lselbeck/multiplayer-game#readme",
   "dependencies": {
     "express": "^4.10.2",
     "socket.io": "^1.4.8"
